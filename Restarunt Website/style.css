@@ -37,12 +37,12 @@ body {
 }
 
 .btn-primary {
-  color: #fff;
-  background: #16a083;
+  color: #e5dede;
+  background: #c76f0a;
 }
 
 .btn-primary:hover {
-  background: #117964;
+  background: #969a99;
   transition: background 0.3s ease-in-out;
 }
 
@@ -93,7 +93,7 @@ body {
 }
 
 .menu-items a:hover {
-  color: #117964;
+  color: #d27c14;
   transition: color 0.3s ease-in-out;
 }
 
@@ -323,7 +323,7 @@ body {
 }
 
 .food-description .food-price {
-  color: #117964;
+  color: #ca8114;
   font-weight: 700;
 }
 
@@ -349,12 +349,12 @@ body {
 }
 
 .testimonial-box .checked {
-  color: #ff9529;
+  color: #0f1212;
 }
 
 .testimonial-box .testimonial-text {
   margin: 1rem 0;
-  color: #444;
+  color: #cc700d;
 }
 
 .testimonial-box {
@@ -390,7 +390,7 @@ body {
 
 .contact-img img {
   display: block;
-  height: 400px;
+  height: 425px;
   width: 100%;
   object-position: center;
   object-fit: cover;
